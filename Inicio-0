@@ -1,0 +1,35 @@
+class profesor():
+    def __init__(self,nombre,id,):
+        self.nombre = nombre
+        self.id = id
+        self.mensaje =[]
+
+    def Ingresar_mensaje():
+        pass
+
+class chatbot():
+    def __init__(self):
+        self.palabras=[]
+        self.diccionario=[]
+
+    def Porcentajes():
+        pass
+    def Seleccion_palabra():
+        pass
+    
+
+class Gestion_lenguaje():
+    def __init__(self,mensaje,palabras):
+        pass
+    def Analisis_sentimientos():
+        pass
+
+class Generacion_respuesta():
+    def __init__(self):
+        self.diccionario:[]
+        self.respuesta_probable:[]
+        
+    def Porcentajes(diccionario):
+        pass
+    def Seleccion_respuesta():
+        pass
